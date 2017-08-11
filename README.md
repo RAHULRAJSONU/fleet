@@ -1,0 +1,1 @@
+# hibernate_configuration_with_propertiesFile
